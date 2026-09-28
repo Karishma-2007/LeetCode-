@@ -1,6 +1,6 @@
 class Solution {
     public int smallestNumber(int n, int t) {
-        for(int i=n;i<n+50;i++){
+        for(int i=n;i<n+10;i++){
             if(digitmul(i)%t==0){
                 return i;
             }
