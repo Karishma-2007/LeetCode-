@@ -16,9 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Karishma-2007/LeetCode-/tree/master/0050-powx-n) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Karishma-2007/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Karishma-2007/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Karishma-2007/LeetCode-/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
