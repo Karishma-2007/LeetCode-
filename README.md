@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Karishma-2007/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Karishma-2007/LeetCode-/tree/master/0022-generate-parentheses) |
+| [0680-valid-palindrome-ii](https://github.com/Karishma-2007/LeetCode-/tree/master/0680-valid-palindrome-ii) |
 | [0856-score-of-parentheses](https://github.com/Karishma-2007/LeetCode-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Karishma-2007/LeetCode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/Karishma-2007/LeetCode-/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Karishma-2007/LeetCode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Tree
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Karishma-2007/LeetCode-/tree/master/0543-diameter-of-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Karishma-2007/LeetCode-/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
