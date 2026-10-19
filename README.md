@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Karishma-2007/LeetCode-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Karishma-2007/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Karishma-2007/LeetCode-/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Karishma-2007/LeetCode-/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Karishma-2007/LeetCode-/tree/master/1672-richest-customer-wealth) |
 ## Sorting
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Karishma-2007/LeetCode-/tree/master/0050-powx-n) |
+| [1512-number-of-good-pairs](https://github.com/Karishma-2007/LeetCode-/tree/master/1512-number-of-good-pairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Karishma-2007/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -93,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Karishma-2007/LeetCode-/tree/master/1672-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Karishma-2007/LeetCode-/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Karishma-2007/LeetCode-/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
