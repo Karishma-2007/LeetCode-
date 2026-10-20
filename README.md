@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Karishma-2007/LeetCode-/tree/master/0136-single-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Karishma-2007/LeetCode-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Karishma-2007/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Karishma-2007/LeetCode-/tree/master/1480-running-sum-of-1d-array) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Karishma-2007/LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Karishma-2007/LeetCode-/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
