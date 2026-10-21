@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Karishma-2007/LeetCode-/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Karishma-2007/LeetCode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Karishma-2007/LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Karishma-2007/LeetCode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Karishma-2007/LeetCode-/tree/master/0050-powx-n) |
 | [1512-number-of-good-pairs](https://github.com/Karishma-2007/LeetCode-/tree/master/1512-number-of-good-pairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Karishma-2007/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Karishma-2007/LeetCode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
