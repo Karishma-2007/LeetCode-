@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Karishma-2007/LeetCode-/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Karishma-2007/LeetCode-/tree/master/0217-contains-duplicate) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Karishma-2007/LeetCode-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Karishma-2007/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Karishma-2007/LeetCode-/tree/master/1480-running-sum-of-1d-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Karishma-2007/LeetCode-/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Karishma-2007/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Karishma-2007/LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Karishma-2007/LeetCode-/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/Karishma-2007/LeetCode-/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
